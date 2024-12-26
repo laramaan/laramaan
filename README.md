@@ -26,11 +26,13 @@
       <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/>
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/manish-gupta07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manish-gupta07" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/manish-gupta07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="manish-gupta07" height="30" width="40" /></a>
-</p>
+
+<h3 align="left">📫 Get in Touch </h3>
+
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:manishgupta0746@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/manish-gupta07)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat-square&logo=LeetCode&logoColor=white)](https://leetcode.com/manish-gupta07)
+[![Website](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=web&logoColor=white)](https://laramaan.github.io/portfolio/)
 
 ---
 
