@@ -35,6 +35,14 @@
 [![Website](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=web&logoColor=white)](https://laramaan.github.io/portfolio/)
 
 ---
+<h3 align="left">🌱 I'm actively: </h3>
+
+- Currently diving into advanced Laravel features and exploring best practices for API development.
+- Enhancing my skills in Laravel Livewire.
+- Contributing to open-source Laravel packages.
+- Learning about serverless architectures and their integration with PHP applications.
+
+---
 
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
