@@ -19,8 +19,6 @@
       <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon~old.svg" alt="CSS" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/amazon/amazon-icon.svg" alt="AWS" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/amazon_awslambda/amazon_awslambda-icon.svg" alt="AWS Lambda" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="Laravel" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="WordPress" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Bootstrap" width="55" height="55"/>
@@ -30,18 +28,20 @@
 - Others :
   
 <p align="center">
-      <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/amazon/amazon-icon.svg" alt="AWS" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/amazon_awslambda/amazon_awslambda-icon.svg" alt="AWS Lambda" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="55" height="55"/> 
+      <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="55" height="55"/> 
+      <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="55" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="Visual Code" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/>  
       <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="55" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Adobe Illustrator" width="55" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/asana/asana-ar21.svg" alt="Asana" width="100" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="Jira" width="55" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="Slack" width="55" height="55"/> 
+      <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="Jira" width="55" height="55"/> 
+      <img src="https://www.vectorlogo.zone/logos/asana/asana-ar21.svg" alt="Asana" width="100" height="55"/> 
+      <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="55" height="55"/>
 </p>
 
 <h3 align="left">📫 Get in Touch </h3>
